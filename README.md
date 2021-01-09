@@ -1,16 +1,20 @@
 # NightEdges
 
-## _January Days_
+## Documentation
 
-### Package manager
+WouldthreeTodo
+
+### _January Days_
+
+#### Package manager
 
 - [x] yarn
 
-### deploy
+#### deploy
 
 - [x] netlify
 
-### frameworks
+#### frameworks
 
 - [x] reactjs CRA
 - [ ] three core [**https://threejs.org/docs/**](https://threejs.org/docs/)
@@ -26,6 +30,6 @@ for linting
 - [ ] prettier
 - [ ] editorconfig
 
-### postprocessing r3f
+#### postprocessing r3f
 
 - [ ] drei
