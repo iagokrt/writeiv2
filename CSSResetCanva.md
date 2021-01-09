@@ -1,11 +1,12 @@
-* {
+```css
+- {
   box-sizing: border-box;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: black;
@@ -30,24 +31,19 @@ a {
   text-align: center;
 }
 
-/* custom designed scrollbar */
-/* width */
-::-webkit-scrollbar {
+/_ custom designed scrollbar _/ /_ width _/ ::-webkit-scrollbar {
   width: 6.6px;
 }
 
-/* Track */
-::-webkit-scrollbar-track {
+/_ Track _/ ::-webkit-scrollbar-track {
   background: rgba($color: #f1f1f1, $alpha: 0.2);
 }
 
-/* Handle */
-::-webkit-scrollbar-thumb {
+/_ Handle _/ ::-webkit-scrollbar-thumb {
   background: #f1f1f1;
 }
 
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
+/_ Handle on hover _/ ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
 
@@ -62,7 +58,7 @@ a {
   justify-content: center;
 }
 
-/* Main Title :: @Section */
+/_ Main Title :: @Section _/
 .container h1 {
   text-align: center;
   color: #f1f1f1;
@@ -104,7 +100,7 @@ header {
 }
 
 canvas {
-  background-color: #abd541;
+  background-color: #000111;
 }
 
 .frame {
@@ -116,7 +112,7 @@ canvas {
   z-index: 2;
 }
 
-.frame__title {
+.frame\_\_title {
   font-size: inherit;
   font-weight: normal;
   margin: 0;
@@ -127,3 +123,4 @@ a {
   color: white;
   text-decoration: none;
 }
+```
