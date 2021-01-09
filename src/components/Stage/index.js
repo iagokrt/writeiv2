@@ -1,8 +1,8 @@
 import React, { Suspense, useRef, useState } from 'react'
-import { AmbientLight } from './Assets/AmbientLight'
-import { Canvas } from 'react-three-fiber'
-import { MeshWobbleMaterial, TrackballControls } from 'drei'
 import { FrontSide } from 'three'
+import { Canvas } from 'react-three-fiber'
+import { MeshWobbleMaterial } from 'drei'
+import { AmbientLight } from './Assets/AmbientLight'
 
 const Stage = () => {
   const mesh = useRef()

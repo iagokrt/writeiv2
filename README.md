@@ -1,8 +1,13 @@
-# NightEdges
+# NightEdges | Writeisland v²
+
+v¹ Preview
+![Preview failed to Load :(](/ezgif.gif)
 
 ## Documentation
 
-WouldthreeTodo
+[How is to THREE](WouldThree.md)
+[Linaria usage](usingLinaria.md)
+[CSS proper reset](CSSResetCanva.md)
 
 ### _January Days_
 
@@ -12,17 +17,17 @@ WouldthreeTodo
 
 #### deploy
 
-- [x] netlify
+- [ ] netlify
 
 #### frameworks
 
 - [x] reactjs CRA
-- [ ] three core [**https://threejs.org/docs/**](https://threejs.org/docs/)
-- [ ] react three fiber renderer
+- [x] three core [**https://threejs.org/docs/**](https://threejs.org/docs/)
+- [x] react three fiber renderer
 
 for stylings
 
-- [ ] linaria
+- [x] linaria
 
 for linting
 
@@ -30,6 +35,18 @@ for linting
 - [ ] prettier
 - [ ] editorconfig
 
-#### postprocessing r3f
+### advantage r3f STAGE Components
 
-- [ ] drei
+- [x] ref, state hooks
+
+- [x] drei controls
+
+- [ ] camera definitions
+
+- [x] use Suspense
+
+- [x] load models
+
+#### postprocessing
+
+- [ ] effects
