@@ -1,12 +1,14 @@
 # NightEdges | Writeisland v²
 
 v¹ Preview
-![Preview failed to Load :(](/ezgif.gif)
+![Preview failed to Load :(](./public/ezgif.gif)
 
 ## Documentation
 
 [How is to THREE](WouldThree.md)
+
 [Linaria usage](usingLinaria.md)
+
 [CSS proper reset](CSSResetCanva.md)
 
 ### _January Days_
